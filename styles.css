@@ -1,0 +1,53 @@
+* {
+    font-family: Roboto;
+    padding: 0;
+    margin: 0;
+}
+.header {
+    display: flex;
+    background-color: #202938;
+    gap: 30px;
+}
+
+.header h2 {
+    margin-right: auto;
+}
+
+.header > *, .main-container > *{
+    color: white;
+    text-decoration: none;
+}
+
+.header, .main-container, .quote-container {
+    padding: 10px 200px
+}
+
+.main-container{
+    display: flex;
+    background-color: #202938;
+    padding: 100px 200px;
+}
+
+.main-container h1 {
+    font-size: 48px;
+    font-weight: 900;
+    color: #f9faf8;
+}
+
+.main-container button{
+    background-color: #3b82f6;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 10px;
+    font-weight: 800;
+    cursor: pointer;
+}
+
+.main-left-side > *{
+    margin: 5px 10px ;
+}
+
+.main-container > img {
+    width: 50%;
+    height: 50%;
+}
