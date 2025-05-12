@@ -74,7 +74,6 @@
 }
 
 .quote-container {
-    display: flex;
     background-color: #e5e7ea;
     padding: 200px;
     font-size: 36px;
@@ -82,6 +81,50 @@
     color: #1F2937;
     font-weight: lighter;
 }
-.author {
-    color: black;
+
+.author-container {
+    font-weight: 500;
+    align-self: end;
+    text-align: right;
 }
+
+.signup-container {
+    height: 300px;
+    display: flex;
+    align-items: center;
+}
+
+.signup-blue {
+    display: flex;
+    background-color: #3b82f6;
+    border-radius: 10px;
+    margin: 10px 150px;
+    padding: 30px 50px;
+    color: #f9faf8;
+    width: 100%;
+}
+
+.signup-leftside :first-child {
+    font-weight: 800;
+}
+
+.signup-button {
+    background-color: #3b82f6;
+    border: 2px solid white;
+    color: white;
+    padding: 5px 25px;
+    border-radius: 10px;
+    font-weight: 800;
+    cursor: pointer;
+    margin-left: auto;
+    align-self: center;
+}
+
+.footer {
+    padding: 30px;
+    background-color: #202938;
+    color: white;
+    text-align: center;
+}
+
+ 
