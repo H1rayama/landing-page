@@ -34,7 +34,7 @@ A summary of key concepts I've mastered in this project.
   git commit -m "refactor: improve .main-container structure"
   ```
 
-- **Types:** Use prefixes like feat:, fix:, docs or style:
+- **Types:** Use prefixes like feat:, fix:, docs: or style:
 -  **Messages:** Be specific! Example:
     - "fix: align buttons in signup form"
     - "fixed stuff"
@@ -46,5 +46,5 @@ A summary of key concepts I've mastered in this project.
 
 # Image Credits
 
-- [Miata drifting photo by Arthur Poulin]-(https://unsplash.com/photos/blue-drifting-car-AO4jkV9UbVc)[Unspleash License](https://unsplash.com/license)
-- [black Miata by Chris Black]-(https://www.pexels.com/photo/a-black-sports-car-parked-on-the-road-shoulder-8707800/)[Pexels License](https://www.pexels.com/license/)
+- [Miata drifting photo by Arthur Poulin](https://unsplash.com/photos/blue-drifting-car-AO4jkV9UbVc)-[Unspleash License](https://unsplash.com/license)
+- [black Miata by Chris Black](https://www.pexels.com/photo/a-black-sports-car-parked-on-the-road-shoulder-8707800/)-[Pexels License](https://www.pexels.com/license/)
